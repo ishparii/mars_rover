@@ -1,0 +1,13 @@
+{
+	"plateau": [5, 5],
+	"rovers": [
+		{
+			"location": [1, 2, "N"],
+			"instruction": "LMLMLMLMM"	
+		},
+		{
+			"location": [3, 3, "E"],
+			"instruction": "MMRMMRMRRM"	 
+		}
+	]
+}
