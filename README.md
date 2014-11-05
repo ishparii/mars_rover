@@ -1,4 +1,4 @@
-mars_rover
+mars_rover is
 ==========
 
 Problem Three: Mars Rovers
